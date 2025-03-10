@@ -1,0 +1,29 @@
+﻿@model CrudApp.Models.Employee
+@{
+    ViewData["Title"] = "Employee Details";
+}
+
+<div class="container">
+    <h2>Employee Details</h2>
+    <div class="card mt-4">
+        <div class="card-body">
+            <h4 class="card-title">@Model.Name</h4>
+            <p><strong>Email:</strong> @Model.Email</p>
+            @* <p><strong>Position:</strong> @Model.Position</p> *@
+            <p><strong>Department:</strong> @Model.Department</p>
+@*             <p><strong>Joining Date:</strong> @Model.JoiningDate.ToShortDateString()</p>
+ *@        </div>
+    </div>
+    <a href="/Employee/Search" class="btn btn-primary mt-4">Back to Search</a>
+</div>
+
+<style>
+    .container {
+        margin-top: 30px;
+    }
+
+    .card {
+        background-color: #fff;
+        border: 1px solid #ddd;
+    }
+</style>

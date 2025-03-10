@@ -1,0 +1,19 @@
+﻿@model CrudApp.Models.Employee
+<div class="container mt-5">
+    <h2 class="text-center text-primary">@ViewData["Title"] Employee</h2>
+    <form method="post" class="shadow p-4 bg-light rounded">
+        <div class="mb-3">
+            <label>Name:</label>
+            <input type="text" asp-for="Name" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label>Email:</label>
+            <input type="email" asp-for="Email" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label>Department:</label>
+            <input type="text" asp-for="Department" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
