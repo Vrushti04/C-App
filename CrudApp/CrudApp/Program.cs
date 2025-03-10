@@ -34,6 +34,8 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
+
+//changed from github
 var app = builder.Build();
 app.UseStaticFiles();
 app.MapDefaultControllerRoute();
