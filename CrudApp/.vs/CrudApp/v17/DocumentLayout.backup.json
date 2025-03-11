@@ -1,61 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\CrudApp\\",
+  "WorkspaceRootPath": "D:\\Example_GitHub\\CrudApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|c:\\users\\hp\\source\\repos\\crudapp\\crudapp\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|solutionrelative:crudapp\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|c:\\users\\hp\\source\\repos\\crudapp\\crudapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|solutionrelative:crudapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|c:\\users\\hp\\source\\repos\\crudapp\\crudapp\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|solutionrelative:crudapp\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|c:\\users\\hp\\source\\repos\\crudapp\\crudapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|solutionrelative:crudapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|c:\\users\\hp\\source\\repos\\crudapp\\crudapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|solutionrelative:crudapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|c:\\users\\hp\\source\\repos\\crudapp\\crudapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|solutionrelative:crudapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|c:\\users\\hp\\source\\repos\\crudapp\\crudapp\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|solutionrelative:crudapp\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|c:\\users\\hp\\source\\repos\\crudapp\\crudapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|solutionrelative:crudapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|c:\\users\\hp\\source\\repos\\crudapp\\crudapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|solutionrelative:crudapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|c:\\users\\hp\\source\\repos\\crudapp\\crudapp\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|solutionrelative:crudapp\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|c:\\users\\hp\\source\\repos\\crudapp\\crudapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|solutionrelative:crudapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|c:\\users\\hp\\source\\repos\\crudapp\\crudapp\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|solutionrelative:crudapp\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|c:\\users\\hp\\source\\repos\\crudapp\\crudapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|d:\\example_github\\crudapp\\crudapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|solutionrelative:crudapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|c:\\users\\hp\\source\\repos\\crudapp\\crudapp\\migrations\\20250127085315_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|d:\\example_github\\crudapp\\crudapp\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|solutionrelative:crudapp\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|d:\\example_github\\crudapp\\crudapp\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|solutionrelative:crudapp\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|d:\\example_github\\crudapp\\crudapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|solutionrelative:crudapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|d:\\example_github\\crudapp\\crudapp\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|solutionrelative:crudapp\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|d:\\example_github\\crudapp\\crudapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|solutionrelative:crudapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|d:\\example_github\\crudapp\\crudapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|solutionrelative:crudapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|d:\\example_github\\crudapp\\crudapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|solutionrelative:crudapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|d:\\example_github\\crudapp\\crudapp\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|solutionrelative:crudapp\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|d:\\example_github\\crudapp\\crudapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|solutionrelative:crudapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|d:\\example_github\\crudapp\\crudapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|solutionrelative:crudapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|d:\\example_github\\crudapp\\crudapp\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|solutionrelative:crudapp\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|d:\\example_github\\crudapp\\crudapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|solutionrelative:crudapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|d:\\example_github\\crudapp\\crudapp\\migrations\\20250127085315_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C51C2D60-3A4D-46CD-AD19-B43C1F3E55C4}|CrudApp\\CrudApp.csproj|solutionrelative:crudapp\\migrations\\20250127085315_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 805,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,24 +82,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\Views\\Employee\\Details.cshtml",
+              "DocumentMoniker": "D:\\Example_GitHub\\CrudApp\\CrudApp\\Views\\Employee\\Details.cshtml",
               "RelativeDocumentMoniker": "CrudApp\\Views\\Employee\\Details.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "D:\\Example_GitHub\\CrudApp\\CrudApp\\Views\\Employee\\Details.cshtml",
               "RelativeToolTip": "CrudApp\\Views\\Employee\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-29T05:03:30.739Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\appsettings.json",
+              "DocumentMoniker": "D:\\Example_GitHub\\CrudApp\\CrudApp\\appsettings.json",
               "RelativeDocumentMoniker": "CrudApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\appsettings.json",
+              "ToolTip": "D:\\Example_GitHub\\CrudApp\\CrudApp\\appsettings.json",
               "RelativeToolTip": "CrudApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -107,11 +107,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\Views\\Employee\\Edit.cshtml",
+              "DocumentMoniker": "D:\\Example_GitHub\\CrudApp\\CrudApp\\Views\\Employee\\Edit.cshtml",
               "RelativeDocumentMoniker": "CrudApp\\Views\\Employee\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "D:\\Example_GitHub\\CrudApp\\CrudApp\\Views\\Employee\\Edit.cshtml",
               "RelativeToolTip": "CrudApp\\Views\\Employee\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -119,11 +119,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "D:\\Example_GitHub\\CrudApp\\CrudApp\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "CrudApp\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Example_GitHub\\CrudApp\\CrudApp\\Controllers\\AccountController.cs",
               "RelativeToolTip": "CrudApp\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -131,63 +131,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\Views\\Account\\Login.cshtml",
+              "DocumentMoniker": "D:\\Example_GitHub\\CrudApp\\CrudApp\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "CrudApp\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Example_GitHub\\CrudApp\\CrudApp\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "CrudApp\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T10:50:56.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T10:50:56.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Example_GitHub\\CrudApp\\CrudApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "CrudApp\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Example_GitHub\\CrudApp\\CrudApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "CrudApp\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T11:07:09.651Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "CrudApp\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "CrudApp\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T11:07:09.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\Models\\Employee.cs",
+              "DocumentMoniker": "D:\\Example_GitHub\\CrudApp\\CrudApp\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "CrudApp\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\Models\\Employee.cs",
+              "ToolTip": "D:\\Example_GitHub\\CrudApp\\CrudApp\\Models\\Employee.cs",
               "RelativeToolTip": "CrudApp\\Models\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T08:45:15.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T08:45:15.585Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\Views\\Employee\\Create.cshtml",
+              "DocumentMoniker": "D:\\Example_GitHub\\CrudApp\\CrudApp\\Views\\Employee\\Create.cshtml",
               "RelativeDocumentMoniker": "CrudApp\\Views\\Employee\\Create.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\Example_GitHub\\CrudApp\\CrudApp\\Views\\Employee\\Create.cshtml",
               "RelativeToolTip": "CrudApp\\Views\\Employee\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T08:52:30.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T08:52:30.018Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\Views\\Employee\\Index.cshtml",
+              "DocumentMoniker": "D:\\Example_GitHub\\CrudApp\\CrudApp\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "CrudApp\\Views\\Employee\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\Example_GitHub\\CrudApp\\CrudApp\\Views\\Employee\\Index.cshtml",
               "RelativeToolTip": "CrudApp\\Views\\Employee\\Index.cshtml",
               "ViewState": "AgIAAA0AAAAAAAAAAAAswCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -195,11 +191,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Example_GitHub\\CrudApp\\CrudApp\\Program.cs",
+              "RelativeDocumentMoniker": "CrudApp\\Program.cs",
+              "ToolTip": "D:\\Example_GitHub\\CrudApp\\CrudApp\\Program.cs",
+              "RelativeToolTip": "CrudApp\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T08:46:45.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\Models\\ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Example_GitHub\\CrudApp\\CrudApp\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "CrudApp\\Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Example_GitHub\\CrudApp\\CrudApp\\Models\\ApplicationDbContext.cs",
               "RelativeToolTip": "CrudApp\\Models\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,11 +216,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\Controllers\\EmployeeController.cs",
+              "DocumentMoniker": "D:\\Example_GitHub\\CrudApp\\CrudApp\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "CrudApp\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Example_GitHub\\CrudApp\\CrudApp\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "CrudApp\\Controllers\\EmployeeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -219,11 +228,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\Example_GitHub\\CrudApp\\CrudApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CrudApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Example_GitHub\\CrudApp\\CrudApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "CrudApp\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAgAAAAAAAAAAAAcwCAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -233,25 +242,13 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "20250127085315_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\Migrations\\20250127085315_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Example_GitHub\\CrudApp\\CrudApp\\Migrations\\20250127085315_InitialCreate.cs",
               "RelativeDocumentMoniker": "CrudApp\\Migrations\\20250127085315_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\Migrations\\20250127085315_InitialCreate.cs",
+              "ToolTip": "D:\\Example_GitHub\\CrudApp\\CrudApp\\Migrations\\20250127085315_InitialCreate.cs",
               "RelativeToolTip": "CrudApp\\Migrations\\20250127085315_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T08:53:15.688Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\Program.cs",
-              "RelativeDocumentMoniker": "CrudApp\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\Program.cs",
-              "RelativeToolTip": "CrudApp\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T08:46:45.487Z"
             }
           ]
         },

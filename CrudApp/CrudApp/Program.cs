@@ -36,6 +36,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 
 
 //changed from github
+//Change from the code
 var app = builder.Build();
 app.UseStaticFiles();
 app.MapDefaultControllerRoute();

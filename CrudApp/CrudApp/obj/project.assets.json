@@ -4011,11 +4011,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\CrudApp.csproj",
+      "projectUniqueName": "D:\\Example_GitHub\\CrudApp\\CrudApp\\CrudApp.csproj",
       "projectName": "CrudApp",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\CrudApp.csproj",
+      "projectPath": "D:\\Example_GitHub\\CrudApp\\CrudApp\\CrudApp.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\CrudApp\\CrudApp\\obj\\",
+      "outputPath": "D:\\Example_GitHub\\CrudApp\\CrudApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
